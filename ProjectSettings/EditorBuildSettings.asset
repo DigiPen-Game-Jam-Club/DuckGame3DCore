@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HubWorld.unity
+    guid: d5acaa1315d646b4b927cc500c45f328
+  - enabled: 1
+    path: Assets/Scenes/WorldOneStub.unity
+    guid: 7c6df26a3e881224e888e24fda43362c
+  - enabled: 1
+    path: Assets/Scenes/WorldFiveStub.unity
+    guid: bbf41054bca9c90418d31590d0f293b4
+  - enabled: 1
+    path: Assets/Scenes/WorldFourStub.unity
+    guid: 673beac80cb2fa4459712a37ce0b9a73
+  - enabled: 1
+    path: Assets/Scenes/WorldThreeStub.unity
+    guid: 56614fd0f39a53340b51ce48c370b256
+  - enabled: 1
+    path: Assets/Scenes/WorldTwoStub.unity
+    guid: 719e5fa909786dc48aca74438c1941da
   m_configObjects: {}
